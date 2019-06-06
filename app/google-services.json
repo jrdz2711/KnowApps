@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994110905620",
+    "firebase_url": "https://knowapp-es.firebaseio.com",
+    "project_id": "knowapp-es",
+    "storage_bucket": "knowapp-es.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994110905620:android:aaf892668238050a",
+        "android_client_info": {
+          "package_name": "com.example.knowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994110905620-rac91otc2ipmg8p636vih0ooad8mivau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXPLQB0akkeCUYLVvcNhbrOEyGAWKBXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994110905620-rac91otc2ipmg8p636vih0ooad8mivau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
